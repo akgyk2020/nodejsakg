@@ -1,0 +1,29 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "harys",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.11.1",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "garmen.yk@gmail.com"
+  },
+  "keywords": [
+    "akg"
+  ],
+  "author": "harys rifai",
+  "license": "ISC"
+}
